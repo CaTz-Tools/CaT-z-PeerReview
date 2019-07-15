@@ -1,5 +1,6 @@
 # CaT-z-eLife-Review
-Classification and Tracking in depth (z)
+CaT-z: Classification and Tracking in depth (z)
+
 Software for the acquisition, annotation, and automatic behavioral profile characterization of laboratory rodents' RGB-D videos
 
 This software is currently under revision.
