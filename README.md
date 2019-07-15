@@ -5,7 +5,7 @@ Software for the acquisition, annotation, and automatic behavioral profile chara
 
 This version of the software and the associated manuscript is currently under revision.
 
-CaT-z is composed of three modules. To run each one, download the file using the "Release" link (top of the page) and run the following batch files:
+CaT-z is composed of three modules. To run each one, download the .zip file using the "Release" link (top of the page) and run the following batch files:
 
 RGB-D data Acquisition GUI with the Microsoft Kinect v2:
 > CaT_z_dataAcquisitionGUI.bat
