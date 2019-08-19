@@ -1,5 +1,8 @@
-# CaT-z-eLife-Review
+# CaT-z-PeerReview
 CaT-z: Classification and Tracking in depth (z)
+
+(temporary repository to hold peer review version of CaT-z)
+
 
 Software for the acquisition, annotation, and automatic behavioral profile characterization of laboratory rodents' RGB-D videos
 
