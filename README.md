@@ -5,10 +5,8 @@ Software for the acquisition, annotation, and automatic behavioral profile chara
 
 CaT-z is composed of three modules. To run each one, download the .zip file using the "Release" tab (https://github.com/CaTz-Tools/CaT-z-PeerReview/releases) and run the following batch files:
 
-RGB-D data Acquisition GUI (with the Microsoft Kinect v2 and Intel Real Sense depth cameras):
+RGB-D data Acquisition GUI (with the Microsoft Kinect v2 camera or the Intel Real Sense camera):
 > CaT_z_dataAcquisitionGUI.bat 
-( >CaT_z_dataAcquisitionGUI_Kinect.bat
-> CaT_z_dataAcquisitionGUI_RealSense.bat )
 
 RGB-D data Visualization and Annotation:
 > CaT_z_VisualizationAnnotationGUI.bat
