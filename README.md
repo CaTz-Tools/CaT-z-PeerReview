@@ -7,8 +7,8 @@ CaT-z is composed of three modules. To run each one, download the .zip file usin
 
 RGB-D data Acquisition GUI (with the Microsoft Kinect v2 and Intel Real Sense depth cameras):
 > CaT_z_dataAcquisitionGUI.bat 
-      > CaT_z_dataAcquisitionGUI_Kinect.bat
-      > CaT_z_dataAcquisitionGUI_RealSense.bat
+( >CaT_z_dataAcquisitionGUI_Kinect.bat
+> CaT_z_dataAcquisitionGUI_RealSense.bat )
 
 RGB-D data Visualization and Annotation:
 > CaT_z_VisualizationAnnotationGUI.bat
