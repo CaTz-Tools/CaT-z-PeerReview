@@ -3,7 +3,7 @@ CaT-z: Classification and Tracking in depth (z)
 
 Software for the acquisition, annotation, and automatic behavioral profile characterization of laboratory rodents' RGB-D videos
 
-CaT-z is composed of three modules. To run each one, download the .zip file using the "Release" link (https://github.com/CaTz-Tools/CaT-z-PeerReview/releases) and run the following batch files:
+CaT-z is composed of three modules. To run each one, download the .zip file using the "Release" tab (https://github.com/CaTz-Tools/CaT-z-PeerReview/releases) and run the following batch files:
 
 RGB-D data Acquisition GUI (with the Microsoft Kinect v2 and Intel Real Sense depth cameras):
 > CaT_z_dataAcquisitionGUI.bat 
